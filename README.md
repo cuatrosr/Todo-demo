@@ -2,7 +2,7 @@
 
 *Demo project for git course*
 
-## ***Build With*** 🛠️
+## ***Built With*** 🛠️
 
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" height="60" width="60"></a>
